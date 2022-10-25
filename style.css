@@ -1,0 +1,38 @@
+p{
+    padding-left: 50px;
+}
+
+#numi{
+    height: 50px;
+    border-radius: 10px;
+    margin: 8px;
+}
+
+.numbers{
+    height: 28px;
+    aspect-ratio: 1/1;
+    margin: 8px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+}
+div{
+    background-color: gray;
+    display: inline-block;
+    border-radius: 15px;
+}
+.equal{
+    margin: 0px;
+    height: 28px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
